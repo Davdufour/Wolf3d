@@ -20,7 +20,7 @@ static	void	init_pos(t_w *w)
 	w->e->diry = 1;
 	w->e->planx = 0.6;
 	w->e->plany = -0.05;
-	w->e->rotat = 0.05;
+	w->e->rotat = 0.01;
 	w->e->speed = 0.1;
 	w->e->puttext = 0;
 	w->e->shadow = 1;

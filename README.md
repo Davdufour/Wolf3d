@@ -1,0 +1,1 @@
+<img align="center" src="srcs_readme/wolf3d.gif" width="100%" />
